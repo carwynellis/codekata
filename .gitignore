@@ -1,0 +1,15 @@
+.idea/
+*.ipr
+*.iml
+*.iws
+
+target/
+project/target/
+
+.idea_modules/
+
+# VIM temp files
+*.swp
+
+*.log
+*.lock
